@@ -1,4 +1,4 @@
-package org.DihLovers;
+package org.AwesomeGameSuperCool;
 
 public class Main {
     public static void main(String[] args) {
